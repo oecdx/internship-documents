@@ -100,4 +100,4 @@
 
 [GoogleColab notebook を参照][notebook]
 
-[notebook]: https://colab.research.google.com/drive/1l9Vk1aMaDl6QBhqVREe1EnuUXZdYBNUm?usp=sharing
+[notebook]: https://colab.research.google.com/drive/1YY3yYIzdfq4WQsoZU--mK9017higePgB?usp=sharing

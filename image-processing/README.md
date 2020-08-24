@@ -32,4 +32,4 @@
 
 ノートブックの流れに沿って画像処理をしていこう
 
-[ノートブックへ](https://colab.research.google.com/drive/1C6UH1p2DbJXnh0_Opnfsy7VX3Efx8Q-p?hl=ja#scrollTo=_dZOk0aJxpS7)
+[ノートブックへ](https://colab.research.google.com/drive/1YY3yYIzdfq4WQsoZU--mK9017higePgB?usp=sharing)
